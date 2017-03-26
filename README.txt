@@ -1,8 +1,9 @@
 
 TITLE: 
-Labopla公式サイトのテスト
+Labopla公式サイト（仮）
 
 AUTHOR:
+※無料のテンプレートサイトから使用しています
 DESIGNED & DEVELOPED by FREEHTML5.co
 
 Website: http://freehtml5.co/
